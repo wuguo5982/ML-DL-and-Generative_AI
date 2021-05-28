@@ -4,29 +4,6 @@ import numpy as np  # http://www.numpy.org
 import ast
 import random
 
-# This starter code does not run. You will have to add your changes and
-# turn in code that runs properly.
-
-"""
-Here,
-1. X is assumed to be a matrix with n rows and d columns where n is the
-number of total records and d is the number of features of each record.
-2. y is assumed to be a vector of labels of length n.
-3. XX is similar to X, except that XX also contains the data label for each
-record.
-"""
-
-"""
-This skeleton is provided to help you implement the assignment.You must
-implement the existing functions as necessary. You may add new functions
-as long as they are called from within the given classes.
-
-VERY IMPORTANT!
-Do NOT change the signature of the given functions.
-Do NOT change any part of the main function APART from the forest_size parameter.
-"""
-
-
 class RandomForest(object):
     num_trees = 0
     decision_trees = []
@@ -113,14 +90,12 @@ class RandomForest(object):
                 #  for any of the trees.
                 counts = np.bincount(predition)
 
-                #pass
             else:
                 y = np.append(y, np.argmax(counts))
 
         return y
 
 
-# DO NOT change the main function apart from the forest_size parameter!
 def main():
     X = list()
     y = list()
