@@ -7,11 +7,11 @@
 
 ## 3. Generative AI 
 ###   (a). GANs 
-i). Build Basic Generative Adversarial Networks
+i). Build Basic Generative Adversarial Networks (projects).
 
-ii). Build Better Generative Adversarial Networks
+ii). Build Better Generative Adversarial Networks (projects).
 
-iii). Apply Generative Adversarial Networks
+iii). Apply Generative Adversarial Networks (projects).
 ###   (b). VAEs
 <br>
 <br>
