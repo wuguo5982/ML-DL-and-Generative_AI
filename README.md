@@ -1,7 +1,7 @@
 ## 1. Machine Learning 
-### (a). Unsupervised models
+(a). Unsupervised models
 
-### (b). Supervised models
+(b). Supervised models
 
 ## 2. Deep Learning 
 
