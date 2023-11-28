@@ -3,7 +3,7 @@
 
 (b). Supervised models
 
-## 2. Deep Learning 
+## 2. Deep Learning (Projects)
 
 ## 3. Generative AI 
 ###   (a). Generative Adversarial Networks (GANs) 
