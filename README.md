@@ -5,7 +5,9 @@
 
 ## 2. Deep Learning (Projects)
 
-## 3. Generative AI 
+## 3. YOLOv8 Segmentation (Please see Healthcare parts)
+
+## 4. Generative AI 
 ###   (a). Generative Adversarial Networks (GANs) 
 i). Build Basic Generative Adversarial Networks (projects).
 
