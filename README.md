@@ -3,6 +3,8 @@
 
 (b). Supervised models
 
+(c). Neural Network
+
 ## 2. Deep Learning (Projects)
 
 ## 3. YOLOv8 Segmentation 
