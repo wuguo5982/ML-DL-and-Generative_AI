@@ -1,4 +1,4 @@
-## 🤖 Machine Learning & Generative AI Projects
+## 🤖 Deep Learning & Generative AI Projects
 
 A curated set of hands-on projects covering classical machine learning, deep learning, computer vision, and generative modeling.
 
