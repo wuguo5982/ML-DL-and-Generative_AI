@@ -1,4 +1,4 @@
-## 🤖 Deep Learning & Generative AI Projects
+## ☘️ Deep Learning & Generative AI Projects
 
 A curated set of hands-on projects covering classical machine learning, deep learning, computer vision, and generative modeling.
 
@@ -18,7 +18,7 @@ Applied deep learning solutions for real-world problems using advanced architect
 
 ---
 
-### 3. 🎨 Generative AI
+### 3. 🤖 Generative AI
 - **GANs (Generative Adversarial Networks)**  
   - Foundational GANs, enhancements (e.g., DCGAN, cGAN), and real-world applications  
 - **VAEs (Variational Autoencoders)**  
